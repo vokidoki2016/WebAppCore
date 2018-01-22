@@ -1,0 +1,11 @@
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.deps.json
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.runtimeconfig.json
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.runtimeconfig.dev.json
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.dll
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\bin\Debug\netcoreapp2.0\WebAppCore.pdb
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.csprojResolveAssemblyReference.cache
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.csproj.CoreCompileInputs.cache
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.AssemblyInfoInputs.cache
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.AssemblyInfo.cs
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.dll
+C:\Users\anton_evtikhov\NetProject\WebAppCore\WebAppCore\obj\Debug\netcoreapp2.0\WebAppCore.pdb
